@@ -23,7 +23,7 @@ const Footer = () => {
     },
     {
       name: 'Email',
-      url: 'jayrajsinhchavda87@gmail.com',
+      url: 'chavdajayrajsinh87@gmail.com',
       icon: Mail,
     }
   ];
@@ -76,3 +76,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
